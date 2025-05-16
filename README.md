@@ -1,2 +1,12 @@
-# FLUIDOS-LiveGrid
-LiveGrid is a geo-distributed testbed of FLUIDOS nodes with a live dashboard, showcasing hybrid orchestration, energy-aware service deployment, and coordination between local edge and remote cloud resources.
+# FLUIDOS LiveGrid
+
+**Tagline:** Operational Testbed of Interconnected FLUIDOS Nodes with Live Dashboard
+
+## Overview
+
+FLUIDOS LiveGrid is a real-world, geographically distributed testbed composed of interconnected FLUIDOS nodes and a live monitoring dashboard.
+
+It demonstrates an energy-aware orchestration mechanism that enables:
+
+- Local edge nodes to extend their execution capabilities by leveraging remote cloud clusters.
+- A central orchestrator to optimize and coordinate service deployments across edge devices.
